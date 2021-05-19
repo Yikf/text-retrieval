@@ -1,2 +1,2 @@
 # text-retrieval
-A text-intrieval base on Lucene 
+A text-retrieval base on Lucene 
